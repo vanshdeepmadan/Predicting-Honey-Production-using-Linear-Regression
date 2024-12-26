@@ -1,4 +1,4 @@
-# Predicting-Honey-Production-using-Linear-Regression
+# Predicting-Restaurant-Yelp-Rating-using-Linear-Regression
 
 
 Project:
